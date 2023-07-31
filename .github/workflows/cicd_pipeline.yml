@@ -33,7 +33,7 @@ jobs:
         uses: johnbeynon/render-deploy-action@v0.0.8
         with:
         
-          service-id: 
+          service-id: SERVICE_ID
           
           api-key: RENDER_API
 
