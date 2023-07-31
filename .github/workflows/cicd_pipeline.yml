@@ -35,6 +35,6 @@ jobs:
         
           service-id: 
           
-          api-key:
+          api-key: RENDER_API
 
 
